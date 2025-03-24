@@ -1,5 +1,5 @@
 export const config = {
-  domainSource: "https://www.griiingo.com", // Your WeWeb app preview link
+  domainSource: "https://e3c412aa-5c74-4d02-b483-1802d4c8adc9.weweb-preview.io", // Your WeWeb app preview link
   patterns: [
       {
           pattern: "/empresa/[^/]+",
